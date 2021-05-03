@@ -1,0 +1,7 @@
+D:\C#\Demo_Manual_11\Demo_Manual_11\bin\Debug\Demo_Manual_11.exe.config
+D:\C#\Demo_Manual_11\Demo_Manual_11\bin\Debug\Demo_Manual_11.exe
+D:\C#\Demo_Manual_11\Demo_Manual_11\bin\Debug\Demo_Manual_11.pdb
+D:\C#\Demo_Manual_11\Demo_Manual_11\obj\Debug\Lab_Manual_10.csprojAssemblyReference.cache
+D:\C#\Demo_Manual_11\Demo_Manual_11\obj\Debug\Lab_Manual_10.csproj.CoreCompileInputs.cache
+D:\C#\Demo_Manual_11\Demo_Manual_11\obj\Debug\Demo_Manual_11.exe
+D:\C#\Demo_Manual_11\Demo_Manual_11\obj\Debug\Demo_Manual_11.pdb
